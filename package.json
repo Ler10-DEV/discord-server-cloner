@@ -1,0 +1,22 @@
+{
+  "name": "discord-server-cloner",
+  "version": "1.0.0",
+  "description": "Discord sunucusundaki rolleri, kategorileri, kanalları ve izinleri başka bir sunucuya kopyalayan Node.js otomasyonu.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "discord",
+    "discord-bot",
+    "server-cloner",
+    "backup",
+    "discordjs"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.17.3",
+    "dotenv": "^16.4.7"
+  }
+}
